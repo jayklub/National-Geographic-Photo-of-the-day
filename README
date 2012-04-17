@@ -1,0 +1,4 @@
+This very simple very hacky script downloads the picture of the day from National Geographic. I threw it together so I can have a regularly changing desktop.
+I usualy run the script in my crontab with teh following line:
+
+0 12 * * * python natGeoPhoto.py
